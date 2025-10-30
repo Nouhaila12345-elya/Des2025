@@ -1,6 +1,6 @@
 # Rapport d'Analyse Approfondie du PIB International
-(<img width="285" height="357" alt="image" src="https://github.com/user-attachments/assets/11e2396d-41f1-4cd5-a9a3-aa6811187247" />
-.png)
+<img width="285" height="357" alt="image" src="https://github.com/user-attachments/assets/11e2396d-41f1-4cd5-a9a3-aa6811187247" />
+
 
 El yazidi Nouhaila
 
