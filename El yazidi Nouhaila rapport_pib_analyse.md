@@ -1,7 +1,9 @@
 # Rapport d'Analyse Approfondie du PIB International
-![Texte alternatif](<img width="285" height="357" alt="image" src="https://github.com/user-attachments/assets/11e2396d-41f1-4cd5-a9a3-aa6811187247" />
+(<img width="285" height="357" alt="image" src="https://github.com/user-attachments/assets/11e2396d-41f1-4cd5-a9a3-aa6811187247" />
 .png)
+
 El yazidi Nouhaila
+
 ## 1. Introduction et Contexte
 
 ### 1.1 Objectif de l'analyse
